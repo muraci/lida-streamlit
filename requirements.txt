@@ -1,3 +1,4 @@
 lida 
 streamlit
 matplotlib-venn
+setuptools
